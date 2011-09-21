@@ -1,0 +1,447 @@
+[submodule "DIRECTORY"]
+	path = DIRECTORY
+	url = git://github.com/supercollider-quarks/DIRECTORY.git
+[submodule "AllGui"]
+	path = AllGui
+	url = git://github.com/supercollider-quarks/AllGui.git
+[submodule "AmbIEM"]
+	path = AmbIEM
+	url = git://github.com/supercollider-quarks/AmbIEM.git
+[submodule "API"]
+	path = API
+	url = git://github.com/supercollider-quarks/API.git
+[submodule "arduino"]
+	path = arduino
+	url = git://github.com/supercollider-quarks/arduino.git
+[submodule "audiodomeSoundblox"]
+	path = audiodomeSoundblox
+	url = git://github.com/supercollider-quarks/audiodomeSoundblox.git
+[submodule "AudioMulchClock"]
+	path = AudioMulchClock
+	url = git://github.com/supercollider-quarks/AudioMulchClock.git
+[submodule "AudioUnitBuilder"]
+	path = AudioUnitBuilder
+	url = git://github.com/supercollider-quarks/AudioUnitBuilder.git
+[submodule "AuditoryAugmentation"]
+	path = AuditoryAugmentation
+	url = git://github.com/supercollider-quarks/AuditoryAugmentation.git
+[submodule "autogui"]
+	path = autogui
+	url = git://github.com/supercollider-quarks/autogui.git
+[submodule "Automation"]
+	path = Automation
+	url = git://github.com/supercollider-quarks/Automation.git
+[submodule "NonRT/batchNRT"]
+	path = NonRT/batchNRT
+	url = git://github.com/supercollider-quarks/NonRT-batchNRT.git
+[submodule "BatLib"]
+	path = BatLib
+	url = git://github.com/supercollider-quarks/BatLib.git
+[submodule "Bending"]
+	path = Bending
+	url = git://github.com/supercollider-quarks/Bending.git
+[submodule "Bjorklund"]
+	path = Bjorklund
+	url = git://github.com/supercollider-quarks/Bjorklund.git
+[submodule "BugFixes3.4"]
+	path = BugFixes3.4
+	url = git://github.com/supercollider-quarks/BugFixes3.4.git
+[submodule "Canvas3D"]
+	path = Canvas3D
+	url = git://github.com/supercollider-quarks/Canvas3D.git
+[submodule "CCIn"]
+	path = CCIn
+	url = git://github.com/supercollider-quarks/CCIn.git
+[submodule "ClockFace"]
+	path = ClockFace
+	url = git://github.com/supercollider-quarks/ClockFace.git
+[submodule "CommonTests"]
+	path = CommonTests
+	url = git://github.com/supercollider-quarks/CommonTests.git
+[submodule "Conductor"]
+	path = Conductor
+	url = git://github.com/supercollider-quarks/Conductor.git
+[submodule "ContextSnake"]
+	path = ContextSnake
+	url = git://github.com/supercollider-quarks/ContextSnake.git
+[submodule "cruciallib"]
+	path = cruciallib
+	url = git://github.com/supercollider-quarks/cruciallib.git
+[submodule "CrucialTests"]
+	path = CrucialTests
+	url = git://github.com/supercollider-quarks/CrucialTests.git
+[submodule "crucialviews"]
+	path = crucialviews
+	url = git://github.com/supercollider-quarks/crucialviews.git
+[submodule "Ctk"]
+	path = Ctk
+	url = git://github.com/supercollider-quarks/Ctk.git
+[submodule "cxaudio"]
+	path = cxaudio
+	url = git://github.com/supercollider-quarks/cxaudio.git
+[submodule "cxpatterns"]
+	path = cxpatterns
+	url = git://github.com/supercollider-quarks/cxpatterns.git
+[submodule "DataNetwork"]
+	path = DataNetwork
+	url = git://github.com/supercollider-quarks/DataNetwork.git
+[submodule "DayTimer"]
+	path = DayTimer
+	url = git://github.com/supercollider-quarks/DayTimer.git
+[submodule "dewdrop_lib/ddwChucklib"]
+	path = dewdrop_lib/ddwChucklib
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwChucklib.git
+[submodule "dewdrop_lib/ddwCommon"]
+	path = dewdrop_lib/ddwCommon
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwCommon.git
+[submodule "dewdrop_lib/ddwEQ"]
+	path = dewdrop_lib/ddwEQ
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwEQ.git
+[submodule "dewdrop_lib/ddwGUIEnhancementsForSwingOSC"]
+	path = dewdrop_lib/ddwGUIEnhancementsForSwingOSC
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwGUIEnhancementsForSwingOSC.git
+[submodule "dewdrop_lib/ddwGUIEnhancements"]
+	path = dewdrop_lib/ddwGUIEnhancements
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwGUIEnhancements.git
+[submodule "dewdrop_lib/ddwMIDI"]
+	path = dewdrop_lib/ddwMIDI
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwMIDI.git
+[submodule "dewdrop_lib/ddwMixerChannel"]
+	path = dewdrop_lib/ddwMixerChannel
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwMixerChannel.git
+[submodule "dewdrop_lib/ddwPatterns"]
+	path = dewdrop_lib/ddwPatterns
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwPatterns.git
+[submodule "dewdrop_lib/ddwPeakMonitor"]
+	path = dewdrop_lib/ddwPeakMonitor
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwPeakMonitor.git
+[submodule "dewdrop_lib/ddwPrototype"]
+	path = dewdrop_lib/ddwPrototype
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwPrototype.git
+[submodule "dewdrop_lib/ddwSensitivity"]
+	path = dewdrop_lib/ddwSensitivity
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwSensitivity.git
+[submodule "dewdrop_lib/ddwStatusBox"]
+	path = dewdrop_lib/ddwStatusBox
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwStatusBox.git
+[submodule "dewdrop_lib/ddwTemperament"]
+	path = dewdrop_lib/ddwTemperament
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwTemperament.git
+[submodule "dewdrop_lib/ddwTimeline"]
+	path = dewdrop_lib/ddwTimeline
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwTimeline.git
+[submodule "dewdrop_lib/ddwVoicer"]
+	path = dewdrop_lib/ddwVoicer
+	url = git://github.com/supercollider-quarks/dewdrop_lib-ddwVoicer.git
+[submodule "Debug"]
+	path = Debug
+	url = git://github.com/supercollider-quarks/Debug.git
+[submodule "dewdrop_lib/dewdrop_lib"]
+	path = dewdrop_lib/dewdrop_lib
+	url = git://github.com/supercollider-quarks/dewdrop_lib-dewdrop_lib.git
+[submodule "Dimple"]
+	path = Dimple
+	url = git://github.com/supercollider-quarks/Dimple.git
+[submodule "DissonanceLib"]
+	path = DissonanceLib
+	url = git://github.com/supercollider-quarks/DissonanceLib.git
+[submodule "dmx"]
+	path = dmx
+	url = git://github.com/supercollider-quarks/dmx.git
+[submodule "Feedback"]
+	path = Feedback
+	url = git://github.com/supercollider-quarks/Feedback.git
+[submodule "FileListView"]
+	path = FileListView
+	url = git://github.com/supercollider-quarks/FileListView.git
+[submodule "FileLog"]
+	path = FileLog
+	url = git://github.com/supercollider-quarks/FileLog.git
+[submodule "FilterTools"]
+	path = FilterTools
+	url = git://github.com/supercollider-quarks/FilterTools.git
+[submodule "Freesound2"]
+	path = Freesound2
+	url = git://github.com/supercollider-quarks/Freesound2.git
+[submodule "FreeSound"]
+	path = FreeSound
+	url = git://github.com/supercollider-quarks/FreeSound.git
+[submodule "GamePad"]
+	path = GamePad
+	url = git://github.com/supercollider-quarks/GamePad.git
+[submodule "GD_ToolboxWindow"]
+	path = GD_ToolboxWindow
+	url = git://github.com/supercollider-quarks/GD_ToolboxWindow.git
+[submodule "Generators"]
+	path = Generators
+	url = git://github.com/supercollider-quarks/Generators.git
+[submodule "GeoGraphy"]
+	path = GeoGraphy
+	url = git://github.com/supercollider-quarks/GeoGraphy.git
+[submodule "GLOBOL"]
+	path = GLOBOL
+	url = git://github.com/supercollider-quarks/GLOBOL.git
+[submodule "LinuxExternal/GNUPlot"]
+	path = LinuxExternal/GNUPlot
+	url = git://github.com/supercollider-quarks/LinuxExternal-GNUPlot.git
+[submodule "HadronPlugins"]
+	path = HadronPlugins
+	url = git://github.com/supercollider-quarks/HadronPlugins.git
+[submodule "Hadron"]
+	path = Hadron
+	url = git://github.com/supercollider-quarks/Hadron.git
+[submodule "heatMap"]
+	path = heatMap
+	url = git://github.com/supercollider-quarks/heatMap.git
+[submodule "HelpDesk"]
+	path = HelpDesk
+	url = git://github.com/supercollider-quarks/HelpDesk.git
+[submodule "HelpFile2"]
+	path = HelpFile2
+	url = git://github.com/supercollider-quarks/HelpFile2.git
+[submodule "HierSch"]
+	path = HierSch
+	url = git://github.com/supercollider-quarks/HierSch.git
+[submodule "Image"]
+	path = Image
+	url = git://github.com/supercollider-quarks/Image.git
+[submodule "ixi"]
+	path = ixi
+	url = git://github.com/supercollider-quarks/ixi.git
+[submodule "ixiViews"]
+	path = ixiViews
+	url = git://github.com/supercollider-quarks/ixiViews.git
+[submodule "LinuxExternal/JACK"]
+	path = LinuxExternal/JACK
+	url = git://github.com/supercollider-quarks/LinuxExternal-JACK.git
+[submodule "JInT"]
+	path = JInT
+	url = git://github.com/supercollider-quarks/JInT.git
+[submodule "JITLibExtensions"]
+	path = JITLibExtensions
+	url = git://github.com/supercollider-quarks/JITLibExtensions.git
+[submodule "JITMIDIKtl"]
+	path = JITMIDIKtl
+	url = git://github.com/supercollider-quarks/JITMIDIKtl.git
+[submodule "json"]
+	path = json
+	url = git://github.com/supercollider-quarks/json.git
+[submodule "DataStructures/KDTree"]
+	path = DataStructures/KDTree
+	url = git://github.com/supercollider-quarks/DataStructures-KDTree.git
+[submodule "KeyPlayer"]
+	path = KeyPlayer
+	url = git://github.com/supercollider-quarks/KeyPlayer.git
+[submodule "KMeans"]
+	path = KMeans
+	url = git://github.com/supercollider-quarks/KMeans.git
+[submodule "Ktl"]
+	path = Ktl
+	url = git://github.com/supercollider-quarks/Ktl.git
+[submodule "Laptop"]
+	path = Laptop
+	url = git://github.com/supercollider-quarks/Laptop.git
+[submodule "lfsaw.de"]
+	path = lfsaw.de
+	url = git://github.com/supercollider-quarks/lfsaw.de.git
+[submodule "ListeningClocks"]
+	path = ListeningClocks
+	url = git://github.com/supercollider-quarks/ListeningClocks.git
+[submodule "livecoding2"]
+	path = livecoding2
+	url = git://github.com/supercollider-quarks/livecoding2.git
+[submodule "MachineListeningUnitTests"]
+	path = MachineListeningUnitTests
+	url = git://github.com/supercollider-quarks/MachineListeningUnitTests.git
+[submodule "MagicPreset"]
+	path = MagicPreset
+	url = git://github.com/supercollider-quarks/MagicPreset.git
+[submodule "Manta"]
+	path = Manta
+	url = git://github.com/supercollider-quarks/Manta.git
+[submodule "MathLib"]
+	path = MathLib
+	url = git://github.com/supercollider-quarks/MathLib.git
+[submodule "MathLibTests"]
+	path = MathLibTests
+	url = git://github.com/supercollider-quarks/MathLibTests.git
+[submodule "McldUnitTests"]
+	path = McldUnitTests
+	url = git://github.com/supercollider-quarks/McldUnitTests.git
+[submodule "MinBox"]
+	path = MinBox
+	url = git://github.com/supercollider-quarks/MinBox.git
+[submodule "MoltenMaster"]
+	path = MoltenMaster
+	url = git://github.com/supercollider-quarks/MoltenMaster.git
+[submodule "Monad"]
+	path = Monad
+	url = git://github.com/supercollider-quarks/Monad.git
+[submodule "Morse"]
+	path = Morse
+	url = git://github.com/supercollider-quarks/Morse.git
+[submodule "MovieMarkers"]
+	path = MovieMarkers
+	url = git://github.com/supercollider-quarks/MovieMarkers.git
+[submodule "MP3"]
+	path = MP3
+	url = git://github.com/supercollider-quarks/MP3.git
+[submodule "Mrmr"]
+	path = Mrmr
+	url = git://github.com/supercollider-quarks/Mrmr.git
+[submodule "MultiTouchPad"]
+	path = MultiTouchPad
+	url = git://github.com/supercollider-quarks/MultiTouchPad.git
+[submodule "NatureToolkit"]
+	path = NatureToolkit
+	url = git://github.com/supercollider-quarks/NatureToolkit.git
+[submodule "NB"]
+	path = NB
+	url = git://github.com/supercollider-quarks/NB.git
+[submodule "NetLib"]
+	path = NetLib
+	url = git://github.com/supercollider-quarks/NetLib.git
+[submodule "OpenObject"]
+	path = OpenObject
+	url = git://github.com/supercollider-quarks/OpenObject.git
+[submodule "orb"]
+	path = orb
+	url = git://github.com/supercollider-quarks/orb.git
+[submodule "OSCClocks"]
+	path = OSCClocks
+	url = git://github.com/supercollider-quarks/OSCClocks.git
+[submodule "OscGroupClient"]
+	path = OscGroupClient
+	url = git://github.com/supercollider-quarks/OscGroupClient.git
+[submodule "PitchCircle"]
+	path = PitchCircle
+	url = git://github.com/supercollider-quarks/PitchCircle.git
+[submodule "Plfnoise"]
+	path = Plfnoise
+	url = git://github.com/supercollider-quarks/Plfnoise.git
+[submodule "PopUpTreeMenu"]
+	path = PopUpTreeMenu
+	url = git://github.com/supercollider-quarks/PopUpTreeMenu.git
+[submodule "Preference"]
+	path = Preference
+	url = git://github.com/supercollider-quarks/Preference.git
+[submodule "PreProcessor"]
+	path = PreProcessor
+	url = git://github.com/supercollider-quarks/PreProcessor.git
+[submodule "ProcessTools"]
+	path = ProcessTools
+	url = git://github.com/supercollider-quarks/ProcessTools.git
+[submodule "ProteinBioSynthesis"]
+	path = ProteinBioSynthesis
+	url = git://github.com/supercollider-quarks/ProteinBioSynthesis.git
+[submodule "rd_ctl"]
+	path = rd_ctl
+	url = git://github.com/supercollider-quarks/rd_ctl.git
+[submodule "rd_dot"]
+	path = rd_dot
+	url = git://github.com/supercollider-quarks/rd_dot.git
+[submodule "LinuxExternal/RecordMyDesktop"]
+	path = LinuxExternal/RecordMyDesktop
+	url = git://github.com/supercollider-quarks/LinuxExternal-RecordMyDesktop.git
+[submodule "redDefault"]
+	path = redDefault
+	url = git://github.com/supercollider-quarks/redDefault.git
+[submodule "redMst"]
+	path = redMst
+	url = git://github.com/supercollider-quarks/redMst.git
+[submodule "redSampler"]
+	path = redSampler
+	url = git://github.com/supercollider-quarks/redSampler.git
+[submodule "redSys"]
+	path = redSys
+	url = git://github.com/supercollider-quarks/redSys.git
+[submodule "redUniverse"]
+	path = redUniverse
+	url = git://github.com/supercollider-quarks/redUniverse.git
+[submodule "Renderer"]
+	path = Renderer
+	url = git://github.com/supercollider-quarks/Renderer.git
+[submodule "Republic"]
+	path = Republic
+	url = git://github.com/supercollider-quarks/Republic.git
+[submodule "SCAnimation"]
+	path = SCAnimation
+	url = git://github.com/supercollider-quarks/SCAnimation.git
+[submodule "scgraph"]
+	path = scgraph
+	url = git://github.com/supercollider-quarks/scgraph.git
+[submodule "ScoreClock"]
+	path = ScoreClock
+	url = git://github.com/supercollider-quarks/ScoreClock.git
+[submodule "NonRT/scpodcast"]
+	path = NonRT/scpodcast
+	url = git://github.com/supercollider-quarks/NonRT-scpodcast.git
+[submodule "SCPyduino"]
+	path = SCPyduino
+	url = git://github.com/supercollider-quarks/SCPyduino.git
+[submodule "SenseWorld"]
+	path = SenseWorld
+	url = git://github.com/supercollider-quarks/SenseWorld.git
+[submodule "seto"]
+	path = seto
+	url = git://github.com/supercollider-quarks/seto.git
+[submodule "SpeakersCorner"]
+	path = SpeakersCorner
+	url = git://github.com/supercollider-quarks/SpeakersCorner.git
+[submodule "Spectrogram"]
+	path = Spectrogram
+	url = git://github.com/supercollider-quarks/Spectrogram.git
+[submodule "SWMiniBee"]
+	path = SWMiniBee
+	url = git://github.com/supercollider-quarks/SWMiniBee.git
+[submodule "SynthBenchmark"]
+	path = SynthBenchmark
+	url = git://github.com/supercollider-quarks/SynthBenchmark.git
+[submodule "SynthDefPool"]
+	path = SynthDefPool
+	url = git://github.com/supercollider-quarks/SynthDefPool.git
+[submodule "TabbedView"]
+	path = TabbedView
+	url = git://github.com/supercollider-quarks/TabbedView.git
+[submodule "Tendency"]
+	path = Tendency
+	url = git://github.com/supercollider-quarks/Tendency.git
+[submodule "testquark"]
+	path = testquark
+	url = git://github.com/supercollider-quarks/testquark.git
+[submodule "TuningLib"]
+	path = TuningLib
+	url = git://github.com/supercollider-quarks/TuningLib.git
+[submodule "turtle"]
+	path = turtle
+	url = git://github.com/supercollider-quarks/turtle.git
+[submodule "UGenPatterns"]
+	path = UGenPatterns
+	url = git://github.com/supercollider-quarks/UGenPatterns.git
+[submodule "UGenStructure"]
+	path = UGenStructure
+	url = git://github.com/supercollider-quarks/UGenStructure.git
+[submodule "UnitTesting"]
+	path = UnitTesting
+	url = git://github.com/supercollider-quarks/UnitTesting.git
+[submodule "VectorSpace"]
+	path = VectorSpace
+	url = git://github.com/supercollider-quarks/VectorSpace.git
+[submodule "Vowel"]
+	path = Vowel
+	url = git://github.com/supercollider-quarks/Vowel.git
+[submodule "VuView"]
+	path = VuView
+	url = git://github.com/supercollider-quarks/VuView.git
+[submodule "WarpExt"]
+	path = WarpExt
+	url = git://github.com/supercollider-quarks/WarpExt.git
+[submodule "Wavesets"]
+	path = Wavesets
+	url = git://github.com/supercollider-quarks/Wavesets.git
+[submodule "wslib"]
+	path = wslib
+	url = git://github.com/supercollider-quarks/wslib.git
+[submodule "XML"]
+	path = XML
+	url = git://github.com/supercollider-quarks/XML.git
